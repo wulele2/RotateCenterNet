@@ -1,0 +1,2 @@
+# RotateCenterNet
+CenterNet基础上实现旋转目标检测
